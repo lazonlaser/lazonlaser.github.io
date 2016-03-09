@@ -1,0 +1,5 @@
+# lazon
+
+```javascript
+var i;
+```
