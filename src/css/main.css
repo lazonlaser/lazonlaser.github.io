@@ -218,6 +218,7 @@ nav .nav>ul > li > a.active {
     line-height: 40px;
     vertical-align: middle;
     border-radius: 5px;
+    height:40px;
 }
 
 .support-list li a:before {
