@@ -1,5 +1,0 @@
-# lazon
-
-```javascript
-var i;
-```
