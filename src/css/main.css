@@ -1035,6 +1035,11 @@ footer .copyright {
     -webkit-transition: .3s;
     -o-transition: .3s;
     transition: .3s;
+    text-align: center;
+    text-decoration: none;
+    color:rgba(0,0,0,0);
+	line-height: 156px;
+
 }
 
 .buy a:hover {
@@ -1042,6 +1047,8 @@ footer .copyright {
     -ms-transform: scale(1.2);
     -o-transform: scale(1.2);
     transform: scale(1.2);
+	background: rgba(255,255,255,.5);
+	color:rgba(0,0,0,.5);
 }
 
 .left-buy {
