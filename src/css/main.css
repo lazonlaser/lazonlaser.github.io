@@ -628,7 +628,7 @@ footer .copyright {
 
 .btn-container {
     position: absolute;
-    bottom: 20px;
+    bottom:5vh;
     width: 560px;
     height: 100px;
     left: 13.7795%;
