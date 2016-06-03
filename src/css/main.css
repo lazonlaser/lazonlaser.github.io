@@ -115,7 +115,7 @@ video {
 
 /**
  *index page start
- * 
+ *
  * nav style
  */
 
@@ -262,7 +262,7 @@ nav .nav>ul > li > a.active {
 
 
 /**
- *  index swiper 
+ *  index swiper
  */
 
 .swiper-container {
@@ -334,12 +334,19 @@ nav .nav>ul > li > a.active {
     text-decoration: none;
     font-size: 24px;
     color: #fff;
-    bottom: 22%;
+    bottom: 9%;
     -webkit-transition: .3s;
     -o-transition: .3s;
     transition: .3s;
 }
+.index-app-store{
+  position: absolute;
+  bottom:19%;
+  left:200px;
+  width:262px !important;
+  height:78px !important;
 
+}
 .buy-now-btn:hover {
     color: #ff9c00;
     background: transparent;
@@ -630,24 +637,25 @@ footer .copyright {
 
 .btn-container {
     position: absolute;
-    bottom:5%;
-    width: 560px;
-    height: 100px;
+    bottom:10px;
+    margin-left: 50px;
+    width: 390px;
+    height: 47px;
     left: 13.7795%;
 }
 
 .buy-now-btn2 {
     // position: absolute;
-    width: 275px;
-    height: 65px;
+    width: 175px;
+    height: 45px;
     text-align: center;
     border-radius: 65px;
     background-color: #ff9c00;
-    line-height: 65px;
+    line-height: 45px;
     text-decoration: none;
     font-size: 24px;
     color: #fff;
-    bottom: 10%;
+    bottom: 5px;
     float: right;
     -webkit-transition: .3s;
     -o-transition: .3s;
@@ -665,16 +673,16 @@ footer .copyright {
     margin: auto;
     left: 0;
     right: 0;
-    width: 275px;
-    height: 65px;
+    width: 175px;
+    height: 45px;
     text-align: center;
     border-radius: 65px;
     background-color: #fff;
-    line-height: 65px;
+    line-height: 45px;
     text-decoration: none;
     font-size: 24px;
     color: #333;
-    bottom: 10%;
+    bottom: 5px;
     float: left;
     border: 1px solid #333;
     -webkit-transition: .3s;
@@ -690,7 +698,7 @@ footer .copyright {
 
 /**
  * tech container style
- * 
+ *
  */
 
 .tech-container {
@@ -748,7 +756,7 @@ footer .copyright {
 }
 
 
-/** 
+/**
  * applications container style
  */
 
@@ -977,7 +985,7 @@ footer .copyright {
 }
 
 
-/** 
+/**
  * show img
  */
 
@@ -1067,4 +1075,15 @@ footer .copyright {
     left: 120px;
     background: url(../img/amazon.png) no-repeat center center;
     background-size: cover;
+}
+
+/**
+* video title
+*/
+
+.video-title{
+  font-weight: bold;
+  font-size: 14px;
+  margin-bottom: 5px;
+  margin-top: 5px;
 }
