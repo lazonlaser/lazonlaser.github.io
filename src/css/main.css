@@ -341,10 +341,9 @@ nav .nav>ul > li > a.active {
 }
 .index-app-store{
   position: absolute;
-  bottom:19%;
-  left:200px;
-  width:262px !important;
-  height:78px !important;
+  bottom:30%;
+  left:10%;
+  width:390px !important;
 
 }
 .buy-now-btn:hover {
@@ -553,7 +552,7 @@ footer .copyright {
     height: 100%;
     width: 100%;
     background: url("../img/xiangqingye-images/xiangqing-banner.png") no-repeat center center;
-    background-size: 100%;
+    background-size: contain;
 }
 
 .details-pic-one p {
@@ -590,58 +589,58 @@ footer .copyright {
     height: 100%;
     width: 100%;
     background: url(../img/xiangqingye-images/sangenzhen.png) no-repeat center center;
-    background-size: 100%;
+    background-size: contain;
 }
 
 .details-pic-six {
     height: 100%;
     width: 100%;
     background: url(../img/xiangqingye-images/wendingxing.png) no-repeat center center;
-    background-size: 100%;
+    background-size: contain;
 }
 
 .details-pic-seven {
     height: 100%;
     width: 100%;
     background: url(../img/xiangqingye-images/bluetooth.png) no-repeat center center;
-    background-size: 100%;
+    background-size: contain;
 }
 
 .details-pic-eight {
     height: 100%;
     width: 100%;
     background: url(../img/xiangqingye-images/shuixia.png) no-repeat center center;
-    background-size: 100%;
+    background-size: contain;
 }
 
 .details-pic-nine {
     height: 100%;
     width: 100%;
     background: url(../img/xiangqingye-images/slimsize.png) no-repeat center center;
-    background-size: 100%;
+    background-size: contain;
 }
 
 .details-pic-ten {
     height: 100%;
     width: 100%;
     background: url(../img/xiangqingye-images/bochang.png) no-repeat center center;
-    background-size: 100%;
+    background-size: contain;
 }
 
 .details-pic-ele {
     height: 100%;
     width: 100%;
     background: url(../img/xiangqingye-images/zhiliang.png) no-repeat center center;
-    background-size: cover;
+    background-size: contain;
 }
 
 .btn-container {
-    position: absolute;
-    bottom:10px;
-    margin-left: 50px;
+    position: relative;
+    top:500px;
+    margin-left: 10%;
     width: 390px;
     height: 47px;
-    left: 13.7795%;
+    left: 15%;
 }
 
 .buy-now-btn2 {
