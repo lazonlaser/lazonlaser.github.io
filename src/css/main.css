@@ -342,8 +342,14 @@ nav .nav>ul > li > a.active {
 .index-app-store{
   position: absolute;
   bottom:30%;
+<<<<<<< HEAD
   left:10%;
   width:390px !important;
+=======
+  left:17%;
+  width:262px !important;
+  height:78px !important;
+>>>>>>> origin/master
 
 }
 .buy-now-btn:hover {
